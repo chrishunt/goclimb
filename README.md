@@ -15,8 +15,13 @@
     - YDS rating (5.11c)
     - Type (sport, trad, top-rope)
     - Grade (I-VI)
+    - Pitches
   Moutain Route
     - Name
     - Grade (WI3, VI, 5.10)
+
+    Name YDS  Rating Grade WI AI M RouteType Pitches
+    7mav 5.11 4      III           Sport     1
+    DC        3      II
 
 ## Mountains
